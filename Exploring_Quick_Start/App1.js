@@ -12,7 +12,7 @@ import ClickButton from "./events/ClickButton";
 import Counter from "./state/Counter";
 import SharedCounter from "./props/SharedCounter";  
 
-function App() {
+function App1() {
   return (
     <>
       
@@ -59,4 +59,4 @@ function App() {
   );
 }
 
-export default App;
+export default App1;
